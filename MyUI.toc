@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: MyUI
+## Version: 0.8beta
+## Notes: My own very cool UI
+## Author: Faunts
+## DefaultState: enabled
+
+
+MyUI.lua
